@@ -3,8 +3,8 @@
 Kicad Design 
 You can view on https://kicanvas.org (for non kicad users)
 
-![](Doc\TopView.png)
-![](Doc\BottomView.png)
+![](Doc/TopView.png)
+![](Doc/BottomView.png)
 
 
 Minimal BLDC drive hardware (without microcontroller)
